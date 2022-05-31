@@ -22,9 +22,7 @@ To start with Python, it does not have a linked list library built into it like 
 
 <img src="https://github.com/ArtemenkoDany/Data-Structures/blob/main/pic/doubly-linked-list.png" alt="image" width="50%"/>
 
-## Binary tree (coming soon)
-
-<img src="https://github.com/ArtemenkoDany/Data-Structures/blob/main/pic/binary-tree-to-DLL.png" alt="image" width="50%"/>
+## Blockchain
 
 ## Stack (coming soon)
 
@@ -34,4 +32,12 @@ To start with Python, it does not have a linked list library built into it like 
 
 <img src="https://github.com/ArtemenkoDany/Data-Structures/blob/main/pic/hash-table.png" alt="image" width="50%"/>
 
-## Blockchain
+## Binary tree (coming soon)
+
+<img src="https://github.com/ArtemenkoDany/Data-Structures/blob/main/pic/binary-tree-to-DLL.png" alt="image" width="50%"/>
+
+## Avl trees (coming soon)
+In computer science, an AVL tree is a self-balancing binary search tree. It was the first such data structure to be invented. In an AVL tree, the heights of the two child subtrees of any node differ by at most one; if at any time they differ by more than one, rebalancing is done to restore this property.
+
+## Splay trees (coming soon)
+A splay tree is a binary search tree with the additional property that recently accessed elements are quick to access again. Like self-balancing binary search trees, a splay tree performs basic operations such as insertion, look-up and removal in O(log n) amortized time.
