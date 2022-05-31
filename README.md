@@ -41,3 +41,17 @@ In computer science, an AVL tree is a self-balancing binary search tree. It was 
 
 ## Splay trees (coming soon)
 A splay tree is a binary search tree with the additional property that recently accessed elements are quick to access again. Like self-balancing binary search trees, a splay tree performs basic operations such as insertion, look-up and removal in O(log n) amortized time.
+
+<div align="center">
+ <a href="https://www.instagram.com/danyderudenko/">
+        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-instagram.png" width="3%"/>
+    </a>
+ 
+ <a href="https://github.com/ArtemenkoDany">
+        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-github.png" width="3%"/>
+    </a>
+ 
+ <a href="https://www.facebook.com/dany.kreet/">
+        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-facebook.png" width="3%"/>
+    </a>
+</div>
